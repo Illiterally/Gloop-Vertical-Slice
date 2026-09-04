@@ -22,6 +22,9 @@
 ## SHA-256
 
 - `Gloop-PreAlpha-Vertical-Slice-Windows-x64.zip`  
-  `8aeb710c8705d2e8dc49cff2eca9a543923e3e3fbc7597f31ba49f1ab3ae4cb9`
+  `2901915cb70ea722b79ed6ecd28654ae3a9f48a7f7f8bd75e6a8f8ef03f4cccc`
 - `Gloop-PreAlpha-Vertical-Slice-macOS-Universal.zip`  
-  `891a3326eb00305c46bbc0f86b6a53d06c63290db17e4c5e0f5db557f0008a0a`
+  `c659b41d92be57d321cb5eacccc86c2383164a0ed416eb9be5ce8952a34ed10b`
+
+Each archive includes the proprietary evaluation license. This is a compiled player release, not a
+release of the Unity project or editable source materials.

@@ -58,7 +58,8 @@ Built with Unity
 ## License and source-code notice
 
 Copyright © 2026 **M@Por2r**. All rights reserved. The builds are provided only for personal,
-non-commercial evaluation under the terms in [LICENSE.md](./LICENSE.md).
+non-commercial evaluation under the terms in [LICENSE.md](./LICENSE.md). A copy of the license is
+also included inside each downloadable archive.
 
 This is a binary distribution repository. It does **not** contain the Unity project, game scripts,
 source assets, or editable source code. GitHub automatically labels its snapshots of the public
