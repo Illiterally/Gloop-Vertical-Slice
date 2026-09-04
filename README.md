@@ -8,8 +8,11 @@ changes Temper, splits, recombines, and helps a vulnerable Hero cross dangerous 
 
 ## Download
 
-Download the newest Windows or macOS ZIP from the
+The playable archives are available directly from this repository's `main` branch and from the
 [Releases page](https://github.com/Illiterally/Gloop-Vertical-Slice/releases).
+
+- **[Download Windows 64-bit](./Gloop-PreAlpha-Vertical-Slice-Windows-x64.zip?raw=1)**
+- **[Download macOS Universal](./Gloop-PreAlpha-Vertical-Slice-macOS-Universal.zip?raw=1)**
 
 - **Windows 64-bit:** unzip the complete archive, open `Gloop-Windows`, and run `Gloop.exe`.
 - **macOS Universal (Apple silicon + Intel):** unzip, then open `Gloop.app`. The app is not yet
@@ -52,4 +55,12 @@ Design, world, and direction: **M@Por2r**
 Prototype engineering: **OpenAI Codex**  
 Built with Unity
 
-This repository distributes pre-alpha player builds. It is not a source-code release.
+## License and source-code notice
+
+Copyright © 2026 **M@Por2r**. All rights reserved. The builds are provided only for personal,
+non-commercial evaluation under the terms in [LICENSE.md](./LICENSE.md).
+
+This is a binary distribution repository. It does **not** contain the Unity project, game scripts,
+source assets, or editable source code. GitHub automatically labels its snapshots of the public
+repository contents as “Source code (zip)” and “Source code (tar.gz)”; those snapshots contain only
+the files committed here, not the private game project.
