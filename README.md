@@ -9,7 +9,7 @@ changes Temper, splits, recombines, and helps a vulnerable Hero cross dangerous 
 ## Download
 
 Download the newest Windows or macOS ZIP from the
-[latest release](https://github.com/Illiterally/Gloop-Vertical-Slice/releases/latest).
+[Releases page](https://github.com/Illiterally/Gloop-Vertical-Slice/releases).
 
 - **Windows 64-bit:** unzip the complete archive, open `Gloop-Windows`, and run `Gloop.exe`.
 - **macOS Universal (Apple silicon + Intel):** unzip, then open `Gloop.app`. The app is not yet
